@@ -1,9 +1,12 @@
+.navElement {
+background-color: #852929;
 
-
+}
 
 .shopping{
     position: relative;
     text-align: right;
+    margin: 0% 2% 0% 1%;
     
 }
 
