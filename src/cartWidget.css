@@ -1,0 +1,27 @@
+
+
+
+.shopping{
+    position: relative;
+    text-align: right;
+    
+}
+
+.shopping span{
+    width: 20px;
+    height: 22px;
+    background-color: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(214, 213, 215);
+    position: absolute;
+    top: -5px;
+    left: 65%;
+    padding: 3px 10px;
+}
+
+.shopping .bagLogo{
+height:23px;
+}
