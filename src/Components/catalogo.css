@@ -1,0 +1,18 @@
+.catalogoProductos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.catalogoProductos .itemsContainer{
+    display: flex;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: space-around;
+    width: 100%;
+
+}
+
+.productosShown{
+    display: flex;
+}
